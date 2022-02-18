@@ -3,7 +3,7 @@
 This page will assist you in finding any scribe related forms.
 
 ### Forms 
-
+- [Troop Documents](https://www.troop542.com/troopdocuments/)
 - [Rank Advancement - Schedule your SMC and BOR ](https://forms.gle/G9LEy4tTrbgESt6E9)
 - [Merit Badge (MB) Request](https://forms.gle/E1FQ3DjThE8xcNQM8)
 
