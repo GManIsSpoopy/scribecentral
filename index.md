@@ -2,12 +2,12 @@
 
 This page will assist you in finding any scribe related forms.
 
-### Schedule SMC or BOR or Submit Merit Badge Info 
+### Request Forms
 
 - [Rank Advancement - Schedule your SMC and BOR ](https://forms.gle/G9LEy4tTrbgESt6E9)
 - [Merit Badge (MB) Request](https://forms.gle/E1FQ3DjThE8xcNQM8)
 
-#### Forms
+### Forms
 - [Troop Documents](https://www.troop542.com/troopdocuments/)
 - [Scout Intro Fillable](https://www.troop542.com/wp-content/uploads/troopforms/PG-Scout-Introduction-Fillable.pdf)
 - [Tenderfoot and First Class Fillable](https://www.troop542.com/wp-content/uploads/troopforms/PG-Tfoot-1st-Class-Fillable.pdf)
