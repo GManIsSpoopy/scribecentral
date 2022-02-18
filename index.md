@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Scribe Central
 
 You can use the [editor on GitHub](https://github.com/gavinfountain72/scribecentral/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
