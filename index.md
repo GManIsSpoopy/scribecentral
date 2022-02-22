@@ -8,7 +8,7 @@ This page will assist you in finding any scribe related forms.
 - [Merit Badge (MB) Request](https://forms.gle/E1FQ3DjThE8xcNQM8)
 
 ### Forms
-- [Troop Documents](https://www.troop542.com/troopdocuments/)
+- [Troop Documents](https://www.troop542.com/troopdocuments/){:target="_blank"}
 - [Scout Intro Fillable](https://www.troop542.com/wp-content/uploads/troopforms/PG-Scout-Introduction-Fillable.pdf)
 - [Tenderfoot and First Class Fillable](https://www.troop542.com/wp-content/uploads/troopforms/PG-Tfoot-1st-Class-Fillable.pdf)
 - [Star or Life Fillable](https://www.troop542.com/wp-content/uploads/troopforms/PG-Star-or-Life-Fillable.pdf)
