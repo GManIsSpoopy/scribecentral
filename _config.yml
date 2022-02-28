@@ -1,3 +1,5 @@
 theme: jekyll-theme-architect
 show_downloads: false
 title: Scribe Central
+github:
+  is_project_page: false
